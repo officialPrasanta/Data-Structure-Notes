@@ -5,8 +5,10 @@
 </p>
 A Binary Tree is a subset of a general tree data structure having the degree of two. That means a binary tree can have at most two children of any given node. The above figure is an example of a binary tree. From the applied computer science perspective, in pretty much every real-life use case, binary trees are frequently used.
 
-**Properties:**
+<br>
+<br>
 
+**Properties:**
 <hr>
 
 1. The maximum number of possible nodes in a binary tree of height **h** is **2ʰ - 1**.
